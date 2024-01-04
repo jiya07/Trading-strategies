@@ -1,0 +1,1 @@
+This repository explains trading strategies using leverage on S&P500 ETF (called SPDR or Spider, ticker SPY Equity1) end-of-day prices for the period of time between 1 Jan 2014 to 31 December 2019. The three trading strategies used here are - Autoregression mean reversion strategy, Simple moving average crossover strategy, and Moving average mean reversion strategy.
